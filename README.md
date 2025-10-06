@@ -1,7 +1,6 @@
 # Slowly Changing Dimensions with Snowflake
 
-[![Architecture Diagram](images/scd-architecture.drawio.png)](images/scd-architecture.drawio.png)
-
+[![Architecture Diagram](images/scd-architecture.drawio.png)]
 > This repository demonstrates an implementation of slowly changing dimensions (SCD) techniques using Snowflake, including architecture, SQL scripts, and a deployment environment (Docker + Snowflake SQL + orchestration).
 
 ---

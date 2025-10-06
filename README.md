@@ -1,7 +1,7 @@
 
 # Slowly Changing Dimensions (SCD) with Snowflake
 
-![SCD Architecture](slowly-changing-dimensions-with-snowflake/images/scd-archiecture.drawio.png)
+![SCD Architecture](https://raw.githubusercontent.com/Hamza-khan10/slowly-changing-dimensions-with-snowflake/refs/heads/main/images/scd-archiecture.drawio.png))
 
 This project demonstrates how to **design and implement Slowly Changing Dimensions (SCD)** in **Snowflake** — from data ingestion and transformation to dimension versioning and fact table integration.  
 

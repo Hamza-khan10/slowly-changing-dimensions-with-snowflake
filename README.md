@@ -73,8 +73,6 @@ This project implements **Type 1** and **Type 2**, the most widely used in analy
 
 ## 4. Project Architecture
 
-![SCD Architecture](images/scd-architecture.drawio.png)
-
 The architecture follows a **modern data pipeline** flow:
 
 1. **Data Generation**  
